@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Caroline Farias
-**`Estudante de Análise e Desenvolvimento de Dados (1/6)`**
+**`Estudante de Análise e Desenvolvimento de Sistemas (1/6)`**
 
 Me chamo Caroline Farias, sou do Rio Grande do Sul e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos.
 <br>
